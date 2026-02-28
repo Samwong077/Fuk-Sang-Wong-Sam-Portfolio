@@ -64,27 +64,33 @@ Experienced in Agile development, DevOps practices, system migration, and scalab
 
 ## Enterprise & Capstone Projects
 
-### Enterprise Angular Migration (Capstone A)
-Migrated legacy AngularJS and CoffeeScript system to Angular 17 with TypeScript.
+### Frontend Contribution – Thoth Tech Doubtfire (Capstone A)
 
-- Refactored legacy components
-- Improved maintainability
-- Applied structured sprint workflow
-- Conducted peer code reviews
+Contributed to the modernisation of the Doubtfire platform, supporting the migration from legacy AngularJS and CoffeeScript to Angular 17 and TypeScript within a collaborative development environment.
 
-Tech: Angular 17, TypeScript, GitHub, Tailwind CSS
+Key Contributions:
+- Refactored legacy frontend components into a modular Angular structure
+- Improved maintainability and code clarity
+- Worked within a structured sprint workflow
+- Participated in pull request and peer review process
+- Followed established team coding standards
+
+Tech Stack: Angular 17, TypeScript, GitHub, Tailwind CSS
 
 ---
 
 ### Open Source Contribution – SplashKit (Capstone B)
-Developed interactive usage examples across C++, C#, and Python.
 
-- Multi-language implementation
-- Pull requests and peer review
-- Documentation-driven development
-- Interactive graphical demos
+Contributed to the SplashKit open-source ecosystem by developing interactive usage examples and documentation across multiple programming languages.
 
-Tech: C++, C#, Python, Git
+Key Contributions:
+- Implemented multi-language examples (C++, C#, Python)
+- Designed interactive graphical demonstrations
+- Followed strict style and contribution guidelines
+- Submitted structured pull requests
+- Addressed reviewer feedback through iterative refinement
+
+Tech Stack: C++, C#, Python, Git, Markdown
 
 ---
 
