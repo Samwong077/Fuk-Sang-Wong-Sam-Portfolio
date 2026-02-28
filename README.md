@@ -142,6 +142,7 @@ Tech: Jenkins, GitHub, Azure, Docker
 
 Projects
 1. MoreSecond – E-commerce UI Case Study
+
 Clean and structured shopping workflow design focusing on UI/UX implementation.
 
 GitHub: https://github.com/Samwong077/moresecond-frontend-ui-case-study
