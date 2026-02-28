@@ -66,31 +66,36 @@ Experienced in Agile development, DevOps practices, system migration, and scalab
 
 ### Frontend Contribution – Thoth Tech Doubtfire (Capstone A)
 
-Contributed to the modernisation of the Doubtfire platform, supporting the migration from legacy AngularJS and CoffeeScript to Angular 17 and TypeScript within a collaborative development environment.
+Contributed to the frontend modernisation of the Doubtfire platform, supporting the migration from legacy AngularJS and CoffeeScript to Angular 17 and TypeScript.
+
+Focused on improving component structure, UI consistency, and maintainability within an established enterprise codebase.
 
 Key Contributions:
-- Refactored legacy frontend components into a modular Angular structure
-- Improved maintainability and code clarity
-- Worked within a structured sprint workflow
-- Participated in pull request and peer review process
-- Followed established team coding standards
+- Refactored legacy frontend components into a modular Angular architecture
+- Applied TypeScript for improved type safety and code clarity
+- Enhanced UI structure using Tailwind CSS
+- Worked within a sprint-based Agile workflow
+- Participated in pull request and peer review cycles
 
-Tech Stack: Angular 17, TypeScript, GitHub, Tailwind CSS
+Tech Stack: Angular 17, TypeScript, Tailwind CSS, GitHub
 
 ---
 
 ### Open Source Contribution – SplashKit (Capstone B)
 
-Contributed to the SplashKit open-source ecosystem by developing interactive usage examples and documentation across multiple programming languages.
+Developed interactive graphical examples and documentation to support frontend-style visual demonstrations across multiple languages.
 
 Key Contributions:
-- Implemented multi-language examples (C++, C#, Python)
-- Designed interactive graphical demonstrations
-- Followed strict style and contribution guidelines
-- Submitted structured pull requests
-- Addressed reviewer feedback through iterative refinement
+- Designed interactive UI-based demonstrations
+- Implemented multi-language graphical examples (C++, C#, Python)
+- Followed structured contribution workflow
+- Submitted pull requests and incorporated reviewer feedback
 
-Tech Stack: C++, C#, Python, Git, Markdown
+Tech Stack: C++, C#, Python, Git
+
+Pull Request:
+- [Doubtfire Contribution](https://github.com/thoth-tech/documentation/pull/566)
+- [SplashKit Contribution](https://github.com/thoth-tech/splashkit.io-starlight/pull/393)
 
 ---
 
